@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-rickerd",
+  "version": "0.0.1",
+  "description": "ESLint shareable config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rickerd/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "Rick de Graaff <rick@rickdegraaff.nl>",
+  "license": "Apache-2.0"
+}
