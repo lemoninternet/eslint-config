@@ -1,7 +1,6 @@
 module.exports = {
   "parserOptions": {
     "ecmaFeatures": {
-      "experimentalObjectRestSpread": true,
       "allowImportExportEverywhere": true
     },
     "sourceType": "module"
