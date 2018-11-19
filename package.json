@@ -1,0 +1,20 @@
+{
+  "name": "@lemoninternet/eslint-config",
+  "version": "0.0.1",
+  "description": "ESLint shareable config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lemoninternet/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "Rick de Graaff <rick@lemon-internet.nl>",
+  "license": "Apache-2.0"
+}
